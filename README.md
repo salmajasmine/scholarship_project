@@ -13,13 +13,13 @@ username: admin
 password: 2222
 
 # Struktur folder
-- controller/ = File kontrol untuk API & routing
-- model/ = Query & koneksi database
-- view/ = Tampilan halaman web
-- core/, config/ = File inti dan konfigurasi
-- prestigo-api/ = Folder khusus API 
-- uploads/ = Tempat simpan gambar/file user
-- assets/ = CSS, JS, gambar, dll
-- index.php = Entry point aplikasi
+- controller/ = file kontrol untuk API dan routing
+- model/ = query dan koneksi database
+- view/ = tampilan halaman web
+- core/, config/ = file inti dan konfigurasi
+- prestigo-api/ = folder khusus API 
+- uploads/ = tempat simpan gambar
+- assets/ = gambar
+- index.php = entry point aplikasi
 - prestigo(database).sql = File database
 
